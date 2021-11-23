@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Node js course",
+        "body": "Nodejs is non blocking and for backend development"
+    },
+    {
+        "title": "Lets code",
+        "body": "Coding is fun make sure you are solving a problem with your sh*ti code"
+    },
+    {
+        "title": "Developers",
+        "body": "Coding is fun"
+    },
+    {
+        "title": "Web app",
+        "body": "Looking into web app development learn javascript, Reactjs, Node and expressjs"
+    },
+    {
+        "title": "Mobile app",
+        "body": "Top technology for mobile app Flutter, Kotlin & java, Swift, React Native"
+    }
+]
